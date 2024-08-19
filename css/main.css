@@ -1,0 +1,113 @@
+body {
+    font-family: "Raleway", Arial, serif;
+}
+
+.Rammetto-font {
+    font-family: "Rammetto One", Arial, serif;
+    font-weight: bolder;
+    color: orange;
+}
+
+.Rammetto-font-grey {
+    font-family: "Rammetto One", Arial, serif;
+    color: rgb(138, 134, 128);
+}
+
+.title-bg {
+    font-family: "Rammetto One", Arial, serif;
+    color: rgba(140, 137, 132, 0.12);
+    font-size: 100px;
+    position: absolute;
+    left: 277px;
+    top: 55px;
+}
+
+.title {
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.Raleway-font-grey {
+    font-family: "Raleway", Arial, serif;
+    color: rgb(138, 134, 128);
+}
+
+.Raleway-font-dark-grey {
+    font-family: "Raleway", Arial, serif;
+    color: rgb(107, 104, 100);
+    font-weight: bolder;
+}
+
+.block-tilted {
+    background-color: orange;
+    position: fixed;
+    height: 200%;
+    width: 100%;
+    transform: rotate(-15deg);
+    left: -83%;
+    top: -50%;
+
+}
+
+.personal-info-div {
+    margin-top: 100px;
+}
+
+.big-img {
+    background-image: url('https://picsum.photos/200/300');
+}
+
+.menu-item a :hover {
+    background-color: orange;
+    color: white;
+    position: relative;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.active-menu-item a {
+    background-color: orange;
+    color: white;
+    position: relative;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.menu-item a {
+    background-color: rgb(153, 150, 145);
+    color: white;
+    position: relative;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+
+.btn-orange {
+    border-color: orange;
+    color: rgb(107, 104, 100);
+}
