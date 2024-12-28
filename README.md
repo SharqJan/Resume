@@ -1,2 +1,2 @@
 # Resume
-Resume- SDE .Net Developer
+Resume- SDE Full Stack Developer
